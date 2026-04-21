@@ -44,7 +44,7 @@ This project provides a lightweight alternative to traditional system monitors b
 ## 📂 Project Structure
 
 ```bash
-system_monitor.py   # Main application file
+DMS.py   # Main application file
 ```
 
 ---
@@ -54,7 +54,7 @@ system_monitor.py   # Main application file
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/system-monitor.git
+git clone https://github.com/Dev-ux210/system-monitor.git
 cd system-monitor
 ```
 
@@ -67,7 +67,7 @@ pip install psutil rich
 ### 3. Run the project
 
 ```bash
-python system_monitor.py
+python DMS.py
 ```
 
 ---
@@ -109,12 +109,6 @@ The application displays:
 * Logging and analytics
 * Network monitoring
 * Historical performance graphs
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
