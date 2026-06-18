@@ -114,7 +114,7 @@ The application displays:
 
 ## 👨‍💻 Author
 
-Developed as part of a system-level Python project to demonstrate real-time monitoring and performance optimization techniques.
+Developed as a part of practice
 
 ---
 
